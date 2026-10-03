@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of litalino/flarum-ext-guestengagement.** Not for installation: use [Packagist](https://packagist.org/packages/litalino/flarum-ext-guestengagement) or the [upstream repository](https://github.com/Litalino/flarum-ext-guestengagement).
 
-**0** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/litalino-flarum-ext-guestengagement/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.0.0`
+**2** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/litalino-flarum-ext-guestengagement/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2023-12-11 | `^1.0.0` | [Browse](https://github.com/flarchive/litalino-flarum-ext-guestengagement/tree/archive/v1.0.0) |
+| `1.1.0` | 2024-01-04 | `^1.0.0` | [Browse](https://github.com/flarchive/litalino-flarum-ext-guestengagement/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/litalino-flarum-ext-guestengagement.json](https://github.com/flarchive/archive-index/blob/main/packages/litalino-flarum-ext-guestengagement.json)
 
